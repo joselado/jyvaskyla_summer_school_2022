@@ -1,5 +1,5 @@
 *.OUT
 *.pkl
 .ipynb_checkpoints
-*.odp*
 lecture_slides/*
+lecture_notes/*
