@@ -10,7 +10,7 @@ The folder sessions contains the Jupyter notebooks for the different sessions of
 - Session 5: Topological states in 2D materials
 
 ## Install
-The Jupyter notebooks use [pyqula](https://github.com/joselado/pyqula), and can be installed from a terminal qith pip as
+The Jupyter notebooks use [pyqula](https://github.com/joselado/pyqula), and can be installed from a terminal with pip as
 
 ```bash
 pip install --upgrade pyqula
