@@ -2,4 +2,4 @@
 *.pkl
 .ipynb_checkpoints
 *.odp*
-
+lecture_slides/*
