@@ -1,4 +1,4 @@
-# Jyvaskyla Summer School_2022
+# Jyvaskyla Summer School 2022
 Teaching material for the Jyväskylä summer school 2022 "Emergent quantum matter in artificial two-dimensional materials"
 
 ## Sessions
