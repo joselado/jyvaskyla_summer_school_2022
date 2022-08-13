@@ -16,3 +16,7 @@ The Jupyter notebooks use [pyqula](https://github.com/joselado/pyqula), and can 
 pip install --upgrade pyqula
 ```
 
+## Recordings of the lecture sessions
+Each exercise session has an associated lecture session with the theory background. The recordings of the associated theory sessions can be found [here](https://www.youtube.com/channel/UCgnB-4CcqRQnvTi7P0cUakQ).
+
+
